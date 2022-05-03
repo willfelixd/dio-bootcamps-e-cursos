@@ -1,5 +1,9 @@
 # Desafio de Projeto sobre Git/GitHub da DIO 🗃
-Repositório criado para o Desafio de Projeto.
+[![NPM](https://img.shields.io/github/license/willfelixd/dio_desafio_github_primeiro_repositorio)](https://github.com/willfelixd/dio_desafio_github_primeiro_repositorio/blob/main/LICENSE)
+
+# Sobre o projeto
+
+Repositório criado para reforçar meus conhecimentos em Git e GitHub com esse desafio de projeto da Digital Innovation One, onde executei todos os passos para a criação, atualização e sincronização de um repositório no Git e no GitHub.
 
 # Git 
 
@@ -27,20 +31,20 @@ Cada diretório de trabalho do Git é um repositório com um histórico completo
 
 ## Comandos Básicos
 
-1. git config
-2. git init
-3. git clone
-4. git add
-5. git commit
-6. git branch
-7. git checkout
-8. git remote
-9. git push
-10. git fetch
+1. **git config** - _configura sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit._
+2. **git init** - _cria um repositório novo em branco e, a partir daí, será possível armazenar seu código fonte, alterar, salvaguardar alterações._
+3. **git clone** - _esse comando Git cria uma cópia exata de um repositório já existente._
+4. **git add** - _adiciona os arquivos especificados de código ao seu repositório._
+5. **git commit** - _executa o commit dos arquivos que foram adicionados e cria uma nova revisão com um log._
+6. **git branch** - _lista todas as ramificações._
+7. **git checkout** - _troca de uma ramificação para outra._
+8. **git remote** - _estabelece uma conexão entre seu repositório local e um repositório remoto._
+9. **git push** - _sobe suas modificações para um repositório remoto._
+10. **git fetch** - _recebe todas as informações de commits._
 
 # GitHub
 
-GitHub é uma plataforma de hospedagem de código-fonte e arquivos com **_[controle de versão](https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es)_** usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
+**_[GitHub](https://www.linkedin.com/company/github/)_** é uma plataforma de hospedagem de código-fonte e arquivos com **_[controle de versão](https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es)_** usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
 
 O GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto, além de promover fácil comunicação através de recursos que relatam problemas ou mesclam repositórios remotos (issues, pull request).
 
@@ -60,7 +64,12 @@ O GitHub é amplamente utilizado por programadores para divulgação de seus tra
 > 
 > **Organização matriz:** Microsoft
 
-## Links Úteis
+# Tecnologias Utilizadas
+ - Git
+ - GitHub
+ - Markdown
+
+# Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Comandos Git Básicos](https://www.codigofonte.com.br/artigos/top-25-comandos-do-git)
@@ -72,3 +81,17 @@ O GitHub é amplamente utilizado por programadores para divulgação de seus tra
 [Artigo sobre o GitHub](https://pt.wikipedia.org/wiki/GitHub)
 
 [Entrar no GitHub](https://github.com/)
+
+# Autor
+
+William Felix de Souza
+
+Linkedin: [https://www.linkedin.com/in/william-felix](https://www.linkedin.com/in/william-felix-018493186/)
+
+E-mail: [willfelixd@gmail.com](willfelixd@gmail.com)
+
+# Agradecimentos
+
+[Venilton FalvoJr](https://github.com/falvojr)
+
+[Digital Innovation One](https://www.dio.me/)
