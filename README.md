@@ -93,6 +93,12 @@ E-mail: [willfelixd@gmail.com](willfelixd@gmail.com)
 
 # Agradecimentos
 
-[Venilton FalvoJr](https://github.com/falvojr)
+**_[Digital Innovation One](https://www.dio.me/)_**
 
-[Digital Innovation One](https://www.dio.me/)
+**_[Venilton Falvo](https://github.com/falvojr)_**
+
+**_[Juliana Zanelatto](https://github.com/julianazanelatto)_**
+
+**_[Camila Cavalcante](https://github.com/cami-la)_**
+
+**_[Thiago Leite](https://github.com/thiagoleitecarvalho)_**
