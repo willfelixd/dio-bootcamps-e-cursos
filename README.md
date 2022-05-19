@@ -87,9 +87,9 @@ O GitHub é amplamente utilizado por programadores para divulgação de seus tra
 
 William Felix de Souza
 
-Linkedin: [https://www.linkedin.com/in/william-felix](https://www.linkedin.com/in/william-felix-018493186/)
+Linkedin: **[linkedin.com/in/william-felix](https://www.linkedin.com/in/william-felix-018493186/)**
 
-E-mail: [willfelixd@gmail.com](willfelixd@gmail.com)
+E-mail: **[willfelixd@gmail.com](willfelixd@gmail.com)**
 
 # Agradecimentos
 
